@@ -1,2 +1,3 @@
 # pdac_atlas
-PDAC cell atlas
+Integrated cell atlas and tumoroids chart pancreatic cancer therapeutic targets
+
