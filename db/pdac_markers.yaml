@@ -1,0 +1,103 @@
+lymphoid: 
+    marker_genes: [CD3E, CD3D, NKG7, KLRK1, CD79A, MS4A1]
+    subtypes:
+        CCR7_CD4 Tcells:
+            marker_genes: [CCR7] 
+        IL7R_CD4 Tcells:
+            marker_genes: [IL7R] 
+        FOXP3_CD4 Tcells:
+            marker_genes: [FOXP3] 
+        CXCL13_CD4 Tcells:
+            marker_genes: [CXCL13] 
+        GZMH_CD8 Tcells:
+            marker_genes: [GZMH] 
+        GZMK_CD8 Tcells:
+            marker_genes: [GZMK] 
+        ITGA1_CD8 Tcells:
+            marker_genes: [ITGA1] 
+        ISG15 Tcells:
+            marker_genes: [ISG15] 
+        GNLY NKcells:
+            marker_genes: [GNLY] 
+        XCL1 NKcells:
+            marker_genes: [XCL1] 
+        T/NK proliferating:
+            marker_genes: [MKI67]
+        B/plasma: 
+            marker_genes: [CD79A, MS4A1]
+myeloid: 
+    marker_genes: [CD68, CD14]
+    subtypes:
+        SPP1 macrophage:
+            marker_genes: [SPP1, MARCO] 
+        C1QC macrophage:
+            marker_genes: [C1QA, C1QB, C1QC] 
+        MDSC:
+            marker_genes: [S100A8, S100A9, S100A12] 
+        monocyte:
+            marker_genes: [FCGR3A, CDKN1C] 
+        cDC1:
+            marker_genes: [CLEC9A, XCR1] 
+        cDC2:
+            marker_genes: [CD1C, FCER1A] 
+        cDC3:
+            marker_genes: [CCL19, CCL22, CCR7] 
+        pDC:
+            marker_genes: [LILRA4, PLD4] 
+        myeloid proliferating:
+            marker_genes: [MKI67]
+mesenchyme: 
+    # marker_genes: [DCN, COL1A1]
+    marker_genes: [DCN, PDGFRB]
+    subtypes:
+        myofibroblastic CAF (myCAF):
+            # marker_genes: [ACTA2, TAGLN, RGS5, MMP11, POSTN] 
+            marker_genes: [MMP11] 
+        inflammatory CAF (iCAF):
+            marker_genes: [IL6, LIF, CXCL1, CXCL2] 
+            # marker_genes: [IL6, LIF, CXCL1]
+        antigen-presenting CAF (apCAF):
+            # marker_genes: [HLA-DRA, HLA-DRB1, CD74] 
+            marker_genes: [HLA-DRA, HLA-DRB1, CD74] 
+        stellate/pericyte like:
+            marker_genes: [FABP4, MCAM] 
+epithelial: 
+    marker_genes: [KRT8, EPCAM, REG4, KRT5, CLDN18]
+    subtypes:
+        basal like:
+            marker_genes: [KRT5, KRT6A] 
+        classical epithelial:
+            marker_genes: [GCNT3, REG4, CLDN18]
+        acinar cells: 
+            marker_genes: [CTRB2, CPB1]
+        ductal cells:
+            marker_genes: [AQP1, AMBP]
+endothelial: 
+    marker_genes: [VWF, CDH5, KDR]
+    subtypes:
+        vascular endothelial: 
+            marker_genes: [FLT1]
+        lymphatic endothelial: 
+            marker_genes: [FLT4]
+endocine: 
+    marker_genes: [ING, GCG, IAPP, CHGA, SST, PPY, NKX6-1, HEPACAM2]
+    subtypes:
+        alpha cells:
+            marker_genes: [GCG]
+        beta cells: 
+            marker_genes: [IAPP, NKX6-1, HEPACAM2]
+        delta cells:
+            marker_genes: [SST]
+        PP cells:
+            marker_genes: [PPY]
+        epsilon cells:
+            marker_genes: [GHRL]
+mast: 
+    marker_genes: [KIT]
+erythrocyte:
+    marker_genes: [ALAS2, SLC4A1, SPTA1, KLF1]
+platelet:
+    marker_genes: [ITGB3, ITGA2B, GP1BA]
+schwann:
+    marker_genes: [CDH19]
+

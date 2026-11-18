@@ -1,0 +1,229 @@
+lymphoid	#f22B21
+Lymphoid	#f22B21
+myeloid	#4DBBD5
+Myeloid	#4DBBD5
+mesenchyme	#00A087
+Mesenchyme	#00A087
+epithelial	#3C5488
+Epithelial	#3C5488
+endothelial	#F39B7F
+Endothelial	#F39B7F
+endocine	#8491B4
+Endocine	#8491B4
+mast	#91D1C2
+Mast	#91D1C2
+erythrocyte	#22bb34
+Erythrocyte	#22bb34
+schwann	#7E6148
+Schwann	#7E6148
+platelet	#B09C85
+Platelet	#B09C85
+macrophage	#EB984E
+Macrophage	#EB984E
+CCR7_CD4 Tcells	#fd4c7a
+IL7R_CD4 Tcells	#c251a1
+FOXP3_CD4 Tcells	#b1cd3f
+CXCL13_CD4 Tcells	#22bb34
+GZMH_CD8 Tcells	#6300b5
+GZMK_CD8 Tcells	#e4b974
+ITGA1_CD8 Tcells	#3a0e43
+ISG15 Tcells	#0dc290
+GNLY NKcells	#ead9d5
+XCL1 NKcells	#9e018a
+T/NK proliferating	#8d6fa0
+B/plasma	#f47a92
+SPP1 macrophage	#EB984E
+C1QC macrophage	#795548
+MDSC	#225805
+monocyte	#fe52cf
+cDC1	#c76cde
+cDC2	#e0594b
+cDC3	#43A047
+pDC	#027ffe
+myeloid proliferating	#F7DC6F
+vascular endothelial	#F39B7F
+lymphatic endothelial	#ED496F
+alpha cells	#6c6f15
+beta cells	#260374
+delta cells	#405d37
+PP cells	#88e200
+epsilon cells	#f22B21
+P1	#EB984E
+P2	#B09C85
+P3	#e4b974
+P4	#ED496F
+P5	#f22B21
+P7	#66153A
+P6	#ead9d5
+0	#9d8303
+1	#405d37
+2	#46adaf
+3	#a3e3af
+4	#22bb34
+5	#6ea3fa
+6	#260374
+7	#1c3854
+8	#CE6ED0
+9	#e0594b
+10	#66153A
+11	#537f88
+12	#fd4c18
+13	#f2d71e
+14	#fd4c7a
+15	#DED8CE
+16	#12401F
+17	#5536D5
+18	#15889C
+19	#D2B993
+20	#CC4285
+21	#C3EACA
+22	#E42859
+23	#86564A
+24	#55F97A
+25	#4AA08F
+26	#9006E9
+27	#A52DE5
+C0	#9d8303
+C1	#405d37
+C2	#46adaf
+C3	#a3e3af
+C4	#22bb34
+C5	#6ea3fa
+C6	#260374
+C7	#1c3854
+C8	#CE6ED0
+C9	#e0594b
+C10	#66153A
+C11	#537f88
+C12	#fd4c18
+C13	#f2d71e
+C14	#fd4c7a
+C15	#DED8CE
+C16	#12401F
+C17	#5536D5
+C18	#15889C
+C19	#D2B993
+C20	#CC4285
+C21	#C3EACA
+C22	#E42859
+C23	#86564A
+C24	#55F97A
+C25	#4AA08F
+C26	#9006E9
+C27	#A52DE5
+Normal	lightgray
+Tumor	#43A047
+F	#fd4c18
+M	#537f88
+Yes	#AD6C49
+No	#143395
+I	#EDBBBB
+IA	#E7A5A5
+IB	#E08E8E
+IIA	#D36161
+IIB	#CD4B4B
+II	#C63535
+IIIA	#990000
+IIIB	#660000
+III	#750505
+IV	#310101
+No	#c251a1
+Yes	#537f88
+head	#5536D5
+body	#15889C
+head_uncinate	#D2B993
+body_and_tail	#CC4285
+uncinate	#C3EACA
+neck	#E42859
+head_neck_uncinate	#55F97A
+tail	#86564A
+Werba_NatCommun_2023	#12401F
+Chen_JTM_2023	#5536D5
+Zhang_NatCommun_2023	#15889C
+Peng_CellRes_2019	#D2B993
+Moncada_NatBiot_2020	#CC4285
+Lin_GenomeMed_2020	#C3EACA
+Steele_NatCan_2020	#E42859
+Schlesinger_NatCommun_2020	#86564A
+Oh_NatCommun_2023	#55F97A
+Storrs_NPJPO_2023	#4AA08F
+Xue_NatCommun_2023	#9006E9
+Zhou_NatGenet_2022	#fd4c18
+classical	#F39B7F
+classical(CEACAM5)	#F39B7F
+Classical(CTTN)	#F39B7F
+classical(SLC40A1)	#F8AA07
+Classical(SLC40A1)	#F8AA07
+classical(CLDN18)	#994841
+Classical(SLC40A1)	#994841
+Classical(CLDN18)	#86564A
+Classical(CRABP2)	#F39B7F
+Classical(CTTN)	#F8AA07
+classical2	#c251a1
+classical3	#46adaf
+classical4	#a3e3af
+classical5	#1c3854
+classical6	#6ea3fa
+intercancer	#1c3854
+intercancer(MUC5B)	#405d37
+Pre-cancer(MUC5B)	#405d37
+intercancer(MUCL3)	#1c3854
+Pre-cancer(PGC)	#1c3854
+intercancer(BMX)	#12401F
+Pre-cancer(BMX)	#12401F
+basal like	#003C67
+classical epithelial	#CD534C
+acinar cells	#E64B35
+ductal cells	#00A087
+basal	#4DBBD5
+basal(KRT5)	#4DBBD5
+Basal(KRT5)	#4DBBD5
+basal(S100A4)	#260374
+Basal(S100A4)	#260374
+basal(KRT17)	#15889C
+Basal(KRT7)	#15889C
+acinar	#E64B35
+acinar(CTRB2)	#E64B35
+Acinar(CTRB2)	#E64B35
+ductal	#00A087
+ductal(AQP1)	#00A087
+Ductal(AQP1)	#00A087
+nan	lightgray
+unknow	lightgray
+apCAF	#4AA08F
+apCAF(HLA-DRA)	#4AA08F
+apCAF(CD74)	#4AA08F
+csCAF	#A73030
+csCAF(C7)	#A73030
+csCAF(CFH)	#EB984E
+PreCAF	#143395
+PreCAF(COL18A1)	#143395
+Pre-CAF(TAGLN2)	#143395
+PreCAF(FABP5)	#1c3854
+iCAF	#4A6990
+iCAF(CCL2)	#4A6990
+iCAF(EMP1)	#4A6990
+iCAF(CXCL1)	#29A7DD
+iCAF(SOD2)	#29A7DD
+iCAF2	#397EC3
+iCAF3	#43A047
+myCAF	#A52DE5
+myCAF(COL10A1)	#D289DC
+myCAF(HOPX)	#D289DC
+myCAF(MMP11)	#A52DE5
+Stellate	#12401F
+Stellate(FABP4)	#12401F
+Stellate(MACM)	#12401F
+Stellate2	#537f88
+n_stellate	#537f88
+myofibroblastic CAF (myCAF)	#8A9045
+inflammatory CAF (iCAF)	#FFA319
+antigen-presenting CAF (apCAF)	#C16622
+stellate/pericyte like	#155F83
+region_0	#f22B21
+region_1	#46adaf
+region_2	#486ff7
+region_3	#43A047
+d0	#46adaf
+d7	#155F83
+d14	#397EC3
